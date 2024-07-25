@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scregasty.github.io/sitemap.html.gz
+Sitemap: https://scregasty.github.io/app/sitemap.html.gz
+Sitemap: https://scregasty.github.io/assets/sitemap.html.gz
+Sitemap: https://scregasty.github.io/css/sitemap.html.gz
+Sitemap: https://scregasty.github.io/includes/sitemap.html.gz
+Sitemap: https://scregasty.github.io/item/sitemap.html.gz
+Sitemap: https://scregasty.github.io/src/sitemap.html.gz
